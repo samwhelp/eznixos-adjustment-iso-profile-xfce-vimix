@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+# Change installer icon name to EznixOS
+
+	sed -i -e 's|Debian|EznixOS|g' /usr/share/applications/install-debian.desktop
+	sed -i -e 's|^ *Icon=install-debian|Icon=/usr/share/images/eznixos/icons/lava-lamp.svg|' /usr/share/applications/install-debian.desktop
