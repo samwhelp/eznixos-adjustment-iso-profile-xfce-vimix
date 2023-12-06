@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Vimix-Ruby-Dark
+Comment=Clean Gtk+ theme based on Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Vimix-Ruby-Dark
+MetacityTheme=Vimix-Ruby-Dark
+IconTheme=Vimix-Ruby-Dark
+CursorTheme=Vimix-Cursor
+ButtonLayout=menu:minimize,maximize,close
